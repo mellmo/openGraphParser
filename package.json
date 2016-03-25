@@ -1,0 +1,23 @@
+{
+  "name": "opengraphparser",
+  "version": "1.0.2",
+  "description": "Extract the first url from the provided string if any, fetch the related html page content & parse it to return an opengraph data object",
+  "main": "openGraphParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mem0master/openGraphParser.git"
+  },
+  "keywords": [
+    "OpenGraph",
+    "Parser"
+  ],
+  "author": "Mohamed Mellouki <mellouki.mhd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mem0master/openGraphParser/issues"
+  },
+  "homepage": "https://github.com/mem0master/openGraphParser#readme"
+}
