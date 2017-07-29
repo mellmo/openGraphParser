@@ -71,5 +71,6 @@ async function extractMeta(content = '') {
 }
 
 module.exports = {
-    extractMeta
+    extractMeta,
+    parseMeta
 };
